@@ -1,0 +1,10 @@
+[project]
+name = "david-radar"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "impdar>=1.2.1",
+    "xarray[complete]>=2025.11.0",
+]
