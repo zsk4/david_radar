@@ -10,4 +10,4 @@ wheels/
 .venv
 
 # Data
-./_Data/
+_data/
