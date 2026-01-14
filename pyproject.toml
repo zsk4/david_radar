@@ -8,5 +8,6 @@ dependencies = [
     "impdar>=1.2.1",
     "ipykernel>=7.1.0",
     "obspy>=1.4.2",
+    "scikit-image>=0.26.0",
     "xarray[complete]>=2025.11.0",
 ]
